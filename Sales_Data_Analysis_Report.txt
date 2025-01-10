@@ -1,0 +1,18 @@
+
+Sales Data Analysis Report
+
+1. Sales Trend Over Time:
+   - Observed fluctuations with specific high-performing days.
+   - Peaks may align with promotions or seasonal trends.
+
+2. Sales by Product Category:
+   - Electronics and Furniture dominate total sales.
+   - Toys lag behind, indicating room for growth.
+
+3. Region-wise Sales Distribution:
+   - West and South regions perform the best.
+   - North region has potential for strategic improvements.
+
+4. Payment Method Preferences:
+   - Credit Card and Digital Wallets are the most used methods.
+   - Cash is less frequent, indicating a preference for cashless transactions.
